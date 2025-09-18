@@ -17,7 +17,7 @@ Sigue estos pasos cuidadosamente:
 
 Git es la herramienta que te permitirá interactuar con GitHub desde tu computadora.
 
-1. Descarga Git: Ve a git-scm.com/downloads y descarga el instalador para tu sistema operativo
+1. Descarga Git: Ve a [git-scm.com/downloads](https://git-scm.com/downloads) y descarga el instalador para tu sistema operativo
 (Windows, macOS o Linux).
 2. Instala Git: Ejecuta el instalador y sigue los pasos. En la mayoría de los casos, puedes dejar las
 opciones predeterminadas.
