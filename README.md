@@ -6,4 +6,4 @@ Grupo: 3-D
 
 Especialidad: Programacion
 
-![Ortega Ariel](https://github.com/Davidoaxacacetis/html/blob/main/f11.jpg)
+![Ortega Ariel](https://github.com/Davidoaxacacetis/tarea/blob/main/ar.jpg)
