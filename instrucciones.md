@@ -29,6 +29,7 @@ o El --global significa que esta configuración se aplicará a todos tus proyect
 computadora. Git almacenará esto en un archivo llamado .gitconfig.
 6. Verifica la configuración: Para asegurarte de que todo está correcto, ejecuta:
 7. git config --global --list
+
 Deberías ver tu nombre de usuario y correo electrónico en la lista.
 Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!)
 Vamos a crear un espacio para tu proyecto en la nube de GitHub.
